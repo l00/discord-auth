@@ -5,7 +5,7 @@ FastAPI backend for Discord OAuth2 authentication using SQLAlchemy and JWT
 - Users can securely log in using their Discord account
 - JWT Based authentication
 - Stores and manages user data using SQLAlchemy
-- SHA256 encrypted refresh tokens allowing users to securely stay authenticated for 7 days
+- SHA256 encrypted refresh tokens allowing users to stay authenticated for 7 days
 - Easy configuration
 
 # Configuration
